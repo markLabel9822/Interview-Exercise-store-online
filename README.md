@@ -1,2 +1,3 @@
-# Interview-Exercise-store-online
-test
+php artisan migrate
+php artisan db:seed
+php artisan serve
